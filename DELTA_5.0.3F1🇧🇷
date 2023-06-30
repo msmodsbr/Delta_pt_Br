@@ -1,21 +1,27 @@
 {
- "version":"13",
+ "version":"14",
  "title":"🚨 Atualização disponível 🚨",
- "description":"✔ DELTA YOWA V5.0.3 🇧🇷
+ "description":"✔ DELTA YOWA V5.1.0 🇧🇷
+
+Base ATUALIZAÇÃO FMWA 9.71
+
+🛑 Registro de alterações DELTA YOWA v5.1.0: 30 de junho de 2023
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
- 
 
-🔶 GUIA ESQUERDA E DIREITA DA IU INICIAL
+✅ Adicionado mensagem falsa 
 
-🔶 Visualização da gaveta inicial
+✅ Adicionado Mostrar bate-papo original na mensagem editada 
 
-🔶 Contatos favoritos na gaveta inicial
+✅ Adicionado Enviar documentos, mídia, áudio de até 100 MB ou mais 
 
-🔶 Visualização de pager animada e rolagem
+✔ Fixo Ver a opção de Download único 
 
-🔶 Visualização de histórias em carrossel
+✔ Fixo Marcar uma vez como opção aberta toast Online de Contato 
 
-🔶 Correções de bugs e melhorias!.",
-"download":"https://youtu.be/A4HpDYYssaw"
+✔Fixo (saiba quem está online) 
+
+✔Fixo arquivado não aparecendo na guia de grupos
+.",
+"download":"https://youtu.be/uXqrtNWUwkc"
 }
