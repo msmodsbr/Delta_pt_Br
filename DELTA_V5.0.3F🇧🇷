@@ -1,19 +1,27 @@
 {
- "version":"13",
+ "version":"14",
  "title":"🚨 Atualização disponível 🚨",
- "description":"✔ DELTA YOWA V5.0.3F 🇧🇷
+ "description":"✔ DELTA YOWA V5.1.0 🇧🇷
 
-✅ Corrigido erro ao digitar o comando  
-( Wa.me/settings ) que faz seu zap crash se for digitado em grupo os usuários não consegue abrir o grupo
+Base ATUALIZAÇÃO FMWA 9.71
 
-✅ Corrigido : falha em alguns dispositivos
-
-✅ Corrigido : erros de congelamento
-
-✅ Correção de pesquisa no HOME IOS
+🛑 Registro de alterações DELTA YOWA v5.1.0: 30 de junho de 2023
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
- 
+
+✅ Adicionado mensagem falsa 
+
+✅ Adicionado Mostrar bate-papo original na mensagem editada 
+
+✅ Adicionado Enviar documentos, mídia, áudio de até 100 MB ou mais 
+
+✔ Fixo Ver a opção de Download único 
+
+✔ Fixo Marcar uma vez como opção aberta toast Online de Contato 
+
+✔Fixo (saiba quem está online) 
+
+✔Fixo arquivado não aparecendo na guia de grupos
 .",
-"download":"https://youtu.be/rHtk1kM_8Mc"
+"download":"https://youtu.be/uXqrtNWUwkc"
 }
