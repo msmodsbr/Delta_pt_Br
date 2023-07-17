@@ -1,27 +1,26 @@
 {
- "version":"5.1.1",
+"version":"5.1.2",
  "title":"🚨 Atualização disponível 🚨",
- "description":"✔ DELTA YOWA V5.1.0 🇧🇷
+ "description":"✔ DELTA YOWA V5.1.1 🇧🇷
+Base ATUALIZADA FMWA 9.71
+ 16/07/2023
 
-Base ATUALIZAÇÃO FMWA 9.71
+Registro de alterações DELTA YOWA v5.1.1:
 
-🛑 Registro de alterações DELTA YOWA v5.1.0: 30 de junho de 2023
+🔄 Tradução 100% PT-BR
+
+☑ Corrigido Estilo de layout inicial ios e ios desfocado não pegar cor ios.
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-✅ Adicionado mensagem falsa 
+🔸Opção de personalização da interface do usuário do bate-papo
 
-✅ Adicionado Mostrar bate-papo original na mensagem editada 
+🔸Tamanho da linha de bate-papo
 
-✅ Adicionado Enviar documentos, mídia, áudio de até 100 MB ou mais 
+🔸Adicionar Novo Layout de Entrada
 
-✔ Fixo Ver a opção de Download único 
+🔸Corrigido Bugs 
 
-✔ Fixo Marcar uma vez como opção aberta toast Online de Contato 
-
-✔Fixo (saiba quem está online) 
-
-✔Fixo arquivado não aparecendo na guia de grupos
-.",
-"download":"https://youtu.be/uXqrtNWUwkc"
+❤ E muito mais recursos e melhorias!.",
+"download":"https://youtu.be/zCmRLag5o6M"
 }
